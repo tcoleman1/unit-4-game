@@ -1,0 +1,102 @@
+
+* {
+    box-sizing: border-box;
+  }
+
+body{
+    background-image: url("../images/hwbackground.jpeg")
+}
+
+#title{
+    background-color: rgb(108, 108, 207);
+    height: 100px;
+    width: 300px;
+    color: white;
+    text-align: center;
+    
+    
+}
+
+#game{
+    
+    background-color:violet;
+    height: 400px;
+    width: 440px;
+    
+}
+
+#randomNumber {
+
+    margin-top: 10px;
+    background-color: pink;
+    height: 150px;
+    width: 300px;
+    float: left;
+  
+}
+
+.winslosses{
+
+    margin-top: 10px;
+    margin-left: 5px;
+    background-color: lightblue;
+    height: 150px;
+    width: 100px;
+    float: left;
+    
+}
+
+
+br{
+    clear:both;
+  
+}
+
+
+#crystal1{
+    clear:both;
+    float: left;
+    margin-top: 10px;
+    margin-right: 5px;
+   
+}
+
+#crystal2{
+
+    float:left;
+    margin-top: 10px;
+    margin-right: 5px;
+     
+}
+
+#crystal3{
+    float:left;
+    margin-top: 10px;
+    margin-right: 5px;
+
+   
+}
+
+#crystal4{
+
+    float:left;
+    margin-top: 10px;
+}
+
+.totalStatement {
+
+    clear:both;
+    background-color: plum;
+    height: 50px;
+    width: 300px;
+
+
+
+}
+
+.score {
+    margin-top: 5px;
+    background-color:  rgb(207, 32, 155);
+    height: 150px;
+    width: 300px;
+}
